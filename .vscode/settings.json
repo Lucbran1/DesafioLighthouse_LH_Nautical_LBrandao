@@ -11,7 +11,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "mysql_local",
-            "database": "vendas_db",
+            "database": "lh_nautical_db",
             "username": "root"
         }
     ]

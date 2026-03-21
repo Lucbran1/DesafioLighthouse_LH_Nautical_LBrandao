@@ -35,3 +35,11 @@ prever demanda e propor sistemas de recomendação.
 4. Análise de clientes
 5. Previsão de demanda
 6. Sistema de recomendação
+
+
+## 📊 Dashboard (Tableau)
+
+Acesse o dashboard interativo:
+
+🔗 https://public.tableau.com/views/LH_Nautical/Sales_Analysis_LHNautical_ac
+
