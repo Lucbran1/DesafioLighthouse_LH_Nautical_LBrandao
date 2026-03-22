@@ -42,4 +42,5 @@ prever demanda e propor sistemas de recomendação.
 Acesse o dashboard interativo:
 
 🔗 https://public.tableau.com/views/LH_Nautical/Sales_Analysis_LHNautical_ac
+🔗 https://public.tableau.com/views/LHNauticalEliteCustomersAnalysis/TopClients_Dashb
 
