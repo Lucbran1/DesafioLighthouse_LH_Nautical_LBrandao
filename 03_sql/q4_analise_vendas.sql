@@ -14,7 +14,7 @@ WITH base AS (
 
     FROM vendas_tratadas v
 
-    -- Pega o custo importação mais recente até a data da venda 
+    -- Pega o custo importação disponível mais recente até a data da venda (premissa LIFO)
     LEFT JOIN custos_importacao_tratado c
         ON v.id_product = c.product_id
         AND c.start_date = (
