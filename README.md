@@ -13,7 +13,7 @@ prever demanda e propor sistemas de recomendação.
 - processed: dados tratados
 
 02_notebooks
-- análise exploratória e modelagem
+- análise completa (EDA, vendas, clientes, previsão e recomendação)
 
 03_sql
 - queries utilizadas no projeto
